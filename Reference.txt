@@ -1,0 +1,16 @@
+[JELLY] References IEEE format
+
+1) https://ieeexplore.ieee.org/document/10107391
+M. Ashraf et al., "A Survey on Dimensionality Reduction Techniques for Time-Series Data," in IEEE Access, vol. 11, pp. 42909-42923, 2023, doi: 10.1109/ACCESS.2023.3269693.
+keywords: {Dimensionality reduction;Principal component analysis;Image reconstruction;Decoding;Computer science;Time series analysis;Discrete wavelet transforms;Time-series data;dimensionality reduction;high-dimensional data;machine learning},
+
+2) https://rezayazdanfar.medium.com/timecluster-dimension-reduction-applied-to-temporal-data-for-visual-analytics-cdb403e1bdc4
+Yazdanfar, R. (2022) Timecluster: Dimension reduction applied to temporal data for visual analytics,
+Medium. Available at: https://rezayazdanfar.medium.com/timecluster-dimension-reduction-applied-to-temporal-data-for-visual-analytics-cdb403e1bdc4 (Accessed: 22 March 2025).
+
+3) [1]F. Lazzeri, Machine learning for time series forecasting with Python. Indianapolis, Indiana: Wiley, 2021.
+
+4) [1]J. Eiglsperger, F. Haselbeck, and D. G. Grimm, “ForeTiS: A comprehensive time series forecasting framework in Python,” Machine learning with applications, vol. 12, p. 100467, 2023, doi: 10.1016/j.mlwa.2023.100467.
+
+
+
